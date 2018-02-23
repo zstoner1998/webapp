@@ -1,0 +1,40 @@
+
+	#wrapper{
+	background-color: black;
+	width: 1700px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	body{
+	background-color: yellow;
+	}	
+	h1{
+	color: yellow;
+	text-align: center;
+	margin-top: 30px;
+	padding: 10px 0;
+	}
+	h2{
+    color: yellow;	
+	text-align: center;
+	font-size: 36px;
+	padding: 20px 0;
+	
+	}
+	h3{
+	color: yellow;
+    font-size: 18px;
+	text-align: center;
+	}
+	p{
+	color: yellow;
+	text-align: center;
+	}
+    #stories{
+	column-count: 3;
+	text-align: center;
+    }
+    footer{
+	margin-top: 20px;
+    padding: 30px 0;
+}
